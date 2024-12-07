@@ -1,6 +1,6 @@
 # Tubes-IPL
 Tugas Besar Implementasi Perangkat Lunak
-Topik Project       : Perangkat Lunak Penjadwalan
+Topik Project       : Sistem Koperasi
 
 [Anggota Kelompok]
 1. Anwar Syarifuddin        2250081025
